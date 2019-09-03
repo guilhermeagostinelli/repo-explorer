@@ -41,7 +41,7 @@ Clicking on "See commits" will take the user to the Commit Explorer page, where 
 - [react-test-renderer](https://reactjs.org/docs/test-renderer.html) for snapshot testing of React components that are stable
 - [Act API](https://reactjs.org/docs/test-utils.html#act) for unit and integration testing of React components that hold a state and update logic (such as async calls)
 - [jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) for mocking fetch functions
-- [enzyme](https://airbnb.io/enzyme/) and its [Shallow Rendering API](Shallow Rendering API) for testing routing behaviour
+- [enzyme](https://airbnb.io/enzyme/) and its [Shallow Rendering API](https://airbnb.io/enzyme/docs/api/shallow.html) for testing routing behaviour
 
 ## Prerequisites
 
