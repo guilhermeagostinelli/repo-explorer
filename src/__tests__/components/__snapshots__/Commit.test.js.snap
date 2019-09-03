@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Commit /> should match the snapshot 1`] = `
+.c0::before {
+  content: "📝";
+}
+
+<div
+  className="c0"
+>
+  <h2
+    color="#117ed0"
+  >
+    Update README.md
+  </h2>
+  <p>
+    Author: 
+    Guilherme Agostinelli
+  </p>
+  <p>
+    Committed at 
+    Fri Aug 23 2019 13:20:36 GMT-0300 (Brasilia Standard Time)
+  </p>
+  <p>
+    <a
+      href="https://github.com/guilhermeagostinelli/levenshtein/commit/461fb0ec05e43120e2018bd5a18f461230b99512"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      See on GitHub
+    </a>
+  </p>
+</div>
+`;

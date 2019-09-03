@@ -1,0 +1,43 @@
+{
+  "name": "repo-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React app that connects to the Github API, lists all public repositories from an user, and the last commits for the repositories.",
+  "author": "Guilherme Agostinelli",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "jest-fetch-mock": "^2.1.2",
+    "jest-styled-components": "^6.3.3",
+    "react-test-renderer": "^16.9.0"
+  }
+}

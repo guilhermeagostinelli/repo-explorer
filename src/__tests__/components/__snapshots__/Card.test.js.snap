@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> should match the snapshot 1`] = `
+.c0 {
+  margin: 0 auto;
+  width: 300px;
+  padding: 5px;
+  border: 1px solid #cccccc;
+}
+
+<div
+  className="c0"
+/>
+`;

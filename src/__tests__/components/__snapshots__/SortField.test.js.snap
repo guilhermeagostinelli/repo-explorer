@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SortField /> should match the snapshot 1`] = `
+.c0 > input,
+.c0 > select {
+  margin-left: 10px;
+}
+
+<label
+  className="c0"
+>
+  Order by:
+  <select
+    onChange={[Function]}
+    value="name"
+  >
+    <option
+      value="name"
+    >
+      Name
+    </option>
+    <option
+      value="description"
+    >
+      Description
+    </option>
+    <option
+      value="created_at"
+    >
+      Creation date
+    </option>
+    <option
+      value="language"
+    >
+      Language
+    </option>
+    <option
+      value="stargazers_count"
+    >
+      Stars
+    </option>
+  </select>
+  <select
+    onChange={[Function]}
+    value="asc"
+  >
+    <option
+      value="asc"
+    >
+      Ascending order
+    </option>
+    <option
+      value="desc"
+    >
+      Descending order
+    </option>
+  </select>
+</label>
+`;

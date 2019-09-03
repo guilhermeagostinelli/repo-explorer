@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchField /> should match the snapshot 1`] = `
+.c0 > input,
+.c0 > select {
+  margin-left: 10px;
+}
+
+<label
+  className="c0"
+>
+  Pesquisa:
+  <input
+    onChange={[Function]}
+    type="search"
+    value=""
+  />
+</label>
+`;

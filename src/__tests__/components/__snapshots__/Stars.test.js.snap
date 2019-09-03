@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Stars /> should match the snapshot 1`] = `
+.c0::before {
+  content: "⭐";
+  margin-right: 3px;
+}
+
+<p
+  className="c0"
+/>
+`;
